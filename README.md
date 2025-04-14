@@ -53,7 +53,7 @@
 ## 🧩 Database
 
 - **Database Used:** PostgreSQL  
-- **Connection:** Using Supabase or Neon as the managed PostgreSQL provider.
+- **Connection:** Use Neon as the managed PostgreSQL provider.
 - Backend is configured to connect using the `postgresql://neondb_owner:npg_2EmoWXU6Rlct@ep-winter-meadow-a4y4ckk2-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require`
 
 ---
@@ -72,8 +72,11 @@
 
 ### ✅ Completed
 - [x] Basic frontend and backend setup
+- [x] Implemented companies' CRUD
+- [x] Implemented contacts CRUD, association with company
+- [x] Search company or contact by name
+- [x] Pagination
 - [x] API integration between frontend and backend
-- [x] Authentication via Supabase
 - [x] Deployed both frontend and backend
 
 ## ⏱️ Time Spent
