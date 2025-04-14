@@ -40,7 +40,7 @@
 
 3. Create a `.env.local` file and add your API URL:
    ```
-   NEXT_PUBLIC_API_URL=http://pingcrm-be-production.up.railway.app/api/v1
+   NEXT_PUBLIC_API_URL=http://127.0.0.1:8000/api/v1
    ```
 
 4. Run the development server:
