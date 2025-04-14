@@ -60,8 +60,8 @@
 
 ## 🚀 Deployment URLs
 
-- **Frontend (Vercel):** [http://pingcrm-be-production.up.railway.app/api/v1/companies](http://pingcrm-be-production.up.railway.app/api/v1/companies)
-- **Backend (Railway):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
+- **Frontend (Vercel):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app) 
+- **Backend (Railway):** [http://pingcrm-be-production.up.railway.app/api/v1/companies](http://pingcrm-be-production.up.railway.app/api/v1/companies)
 
 
 > ⚠️ The backend is fully functional and connected to the live database.
