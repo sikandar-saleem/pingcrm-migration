@@ -60,7 +60,7 @@
 
 ## 🚀 Deployment URLs
 
-- **Frontend (Vercel):** [https://your-frontend.vercel.app](https://your-frontend.vercel.app) 
+- **Frontend (Vercel):** [[https://your-frontend.vercel.app](https://pingcrm-fe.vercel.app/)]([https://your-frontend.vercel.app](https://pingcrm-fe.vercel.app/)) 
 - **Backend (Railway):** [http://pingcrm-be-production.up.railway.app/api/v1/companies](http://pingcrm-be-production.up.railway.app/api/v1/companies)
 
 
